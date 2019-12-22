@@ -8,14 +8,26 @@
 <body>
 
 <header>
-<div class="container">
-  <div class="row">
-    <div class="col"><section><button type="button" class="btn btn-primary">Vanessa Emerick</button></section></div>
-    <div class="col"><a href="Index.html"><button type="button" class="btn btn-info">About Me</button><a></div>
-    <div class="col"><a href="portfolio.html"><button type="button" class="btn btn-info">Portfolio</button></a></div>
-    <div class="col"><a href="Contact.html"><button type="button" class="btn btn-info">Contacts</button></a></div>
-  </div>
-</div>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#"><section><button type="button" class="btn btn-primary">Vanessa Emerick</button></section></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="Index.html"><button type="button" class="btn btn-info">About Me</button></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="portfolio.html"><button type="button" class="btn btn-info">Portfolio</button></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="Contact.html"><button type="button" class="btn btn-info">Contacts</button></a> 
+        </li>
+      </ul>
+    </div>
+  </nav>
+
 </header>
 
 <div class="container">
@@ -77,7 +89,17 @@
   </div>
 </div>
 
-<footer> Copyright @ <footer>
+<nav aria-label="Page navigation example">
+  <ul class="pagination">
+    <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+    <li class="page-item"><a class="page-link" href="#">1</a></li>
+    <li class="page-item"><a class="page-link" href="#">2</a></li>
+    <li class="page-item"><a class="page-link" href="#">3</a></li>
+    <li class="page-item"><a class="page-link" href="#">Next</a></li>
+  </ul>
+</nav>
+<span class="badge badge-pill badge-primary">Copyright @ </span>
+
 
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
