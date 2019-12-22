@@ -1,3 +1,3 @@
 # Homework2
-# Homework2
-# Homework2
+
+The second Homework project.
