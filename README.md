@@ -18,7 +18,7 @@ ImageMe.jpg is a photo of me as is me.JPG and profile.png.jpg
 
 Website is about me.
 
-Contains information of my background, where I have lived and where I went to school.
+Index contains information of my background, where I have lived and where I went to school.
 
 Contacts is a contact page to send in qustions, it doesn't function.
 
