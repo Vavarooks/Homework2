@@ -22,9 +22,7 @@ Index contains information of my background, where I have lived and where I went
 
 Contacts is a contact page to send in qustions, it doesn't function.
 
-Index is the main information page about me.
-
-Portfolio is images that i found that repersented what I am good at. I also put place holder text for the explination on what they mean.
+Portfolio is images that I found that repersented what I am good at. I also put place holder text for the explination on what they mean.
 
 Start is the main home page that helps navigate between the other pages.
 
