@@ -6,7 +6,7 @@ How to access:
  
 https://github.com/Vavarooks/Homework2
 
-https://vavarooks.github.io/Homework2/Start.html
+https://vavarooks.github.io/Homework2/Index.html
 
 Four HTML files.
 
